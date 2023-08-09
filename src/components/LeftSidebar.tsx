@@ -55,7 +55,7 @@ const LeftSidebar = () => {
 
      <button
       className="mt-2 w-full bg-sky-500 rounded-full  py-3 text-sm hover:bg-opacity-80 transition duration-200">
-       Tweet</button>
+       Post</button>
        </div>
        
        <button
