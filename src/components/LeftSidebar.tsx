@@ -54,7 +54,7 @@ const LeftSidebar = () => {
      ))}
 
      <button
-      className="mt-2 w-full bg-sky-500 rounded-full  py-3 text-sm hover:bg-opacity-80 transition duration-200">
+      className="mt-2 w-full bg-primary rounded-full  py-3 text-sm hover:bg-opacity-80 transition duration-200">
        Post</button>
        </div>
        
@@ -62,7 +62,7 @@ const LeftSidebar = () => {
       className="mb-8 w-full flex rounded-full items-center justify-between text-sm hover:bg-opacity-80 transition duration-200">
        
        <div className="flex items-center space-x-2">
-       <div className="rounded-full w-8 h-8 bg-sky-600  flex justify-center items-center mr-2 text-sm">S</div>
+       <div className="rounded-full w-8 h-8 bg-primary flex justify-center items-center mr-2 text-sm">S</div>
        <div >
             <div className="font-semibold text-xs"> sisay tadesse</div> 
              <div className="text-slate-500 text-xs">@sisay_tade_see</div>
